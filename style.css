@@ -1,0 +1,64 @@
+.container{
+    margin-bottom: 80px;
+    width: 76%;
+}
+
+.navbar{
+    border-radius: 7px;
+}
+
+.orange-bg{
+    background: rgb(254,234,233);
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.btn-buy-now {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.hero-price{
+    color: #FF136F;
+}
+
+.cat-1, .cat-2, .cat-3{
+    padding:10px 30px;
+    border-radius: 10px;
+}
+
+.cat-1{
+    background: orange;
+}
+
+.cat-2{
+    background: darkcyan;
+}
+
+.cat-3{
+    background: blue;
+}
+
+.categories h1{
+    color: #fff;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.categories{
+    border-radius: 8px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
